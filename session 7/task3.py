@@ -1,5 +1,3 @@
-# Task 3: Zomato Free Delivery
-
 order_total = float(input("Enter your Zomato order total: "))
 
 if order_total > 299:
